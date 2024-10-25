@@ -1,0 +1,263 @@
+.nombre {
+    width: 100%;
+    height: 300px;
+    background: #64B6AC;
+}
+
+.nombre .contenido {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+
+}
+
+.nombre .img {
+    position: absolute;
+    top: 8%;
+    right: 5%;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+}
+
+.nombre .img img {
+    width: 180px;
+    right: 320px;
+}
+
+.nombre .contenido .p-1{
+    color: white;
+    font-family: "Lora", serif;
+    font-weight: bolder;
+    font-size: 65px;
+}
+
+.nombre .contenido .p-2{
+    color: white;
+    font-family: "Lora", sans-serif;
+    position: relative;
+    top: -40px;
+    font-size: x-large;
+}
+
+.Informacion {
+    width: 50%;
+    height: auto;
+    background: #64B6AC;
+}
+
+.Informacion .TituloInfo {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white solid;   
+}
+
+.Informacion .TituloNombre{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoNombre{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Informacion .TituloEdad{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoEdad{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Informacion .TituloNro{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoNro{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Informacion .TituloCorreo{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoCorreo{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Informacion .TituloDire{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoDire{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.Informacion .TituloCI{
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Informacion .InfoCI{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+
+.Habilidades {
+    width: 50%;
+    height: auto;
+    background: #64B6AC;
+}
+
+.Habilidades .TituloHabilidades {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white solid;
+}
+
+.Habilidades .ListaHabilidades{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+.Aficciones {
+    width: 50%;
+    height: auto;
+    background: #64B6AC;
+}
+
+.Aficciones .TituloAficciones {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white solid;
+}
+
+.Aficciones .ListaAficciones{
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+.expLab {
+    width: 45%;
+    background: #64B6AC;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-left: 20px;
+    margin-top: 340px;
+    margin-right: 10px;
+}
+
+.expLab .tituloExp {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white solid;
+}
+
+.expLab .exp1 {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: large;
+    font-weight: bolder;
+}
+.expLab .listaExp1 {
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+.expLab .exp2 {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: large;
+    font-weight: bolder;   
+}
+
+.expLab .listaExp2 {
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+.refLab {
+    width: 90%;
+    height: auto;
+    background: #64B6AC;
+    margin: 5% auto;
+}
+
+.refLab .tituloRef {
+    color: white;
+    font-family: "Lora", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white solid;
+}
+
+.refLab .listaRef {
+    font-family: "Lora", sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
